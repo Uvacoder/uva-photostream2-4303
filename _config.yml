@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mattriley.photos
-email: matt@mattriley.me
+title: uva.photos
+email: uvacoder@proton.me
 author:
-  name: Matt Riley
-  email: matt@mattriley.me #optional
-  website: https://mattriley.photos
+  name: Alec Campbell
+  email: uvacoder@proton.me #optional
+  website: https://uvaphotostream.vercel.app
 description: >- # this means to ignore newlines until "baseurl:"
   Photostream
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mattriley.photos/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mjr1878
-github_username: matt-riley
-instagram_username: mattriley1878
+url: "https://uvaphotostream.vercel.app" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: VaLandscapes
+github_username: uvacoder
+instagram_username: 
 
 # Build settings
 plugins:
