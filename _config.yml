@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: uvaphotostream
+title: uvaphotostream-v2
 email: uvacoder@proton.me
 author:
   name: Alec Campbell
   email: uvacoder@proton.me #optional
-  website: https://maxvoltar.photos
+  website: https://myphotostream-v2.vercel.app
 description: >- # this means to ignore newlines until "baseurl:"
   Photostream
 baseurl: "" # the subpath of your site, e.g. /blog
